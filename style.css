@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+} 
+
+img{
+    max-width: 200px;
+}
